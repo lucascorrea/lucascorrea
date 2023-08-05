@@ -3,7 +3,7 @@
 
 ## I'm an iOS Engineer.
 
-I have more than 16 years of experience in development, with more than 10 years as an iOS Engineer, creating applications for iPhone, iPad and Apple Watch. I have knowledge in **Java** (J2SE, J2EE, Swing and **Android**), **Objective-C**, **Swift** and **Ruby** (Ruby on Rails), and runs some open source projects on GitHub. Since I started my career in 2004, I have worked in several companies in different fields like call centres and payment services, and also as freelancer. 
+I have more than 19 years of experience in development, with more than 13 years as an iOS Engineer, creating applications for iPhone, iPad and Apple Watch. I have knowledge in **Java** (J2SE, J2EE, Swing and **Android**), **Objective-C**, **Swift** and **Ruby** (Ruby on Rails), and runs some open source projects on GitHub. Since I started my career in 2004, I have worked in several companies in different fields like call centres and payment services, and also as freelancer. 
 
 ### Connect with me:
 
