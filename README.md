@@ -13,9 +13,12 @@ I have more than 19 years of experience in development, with more than 13 years 
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
+<br />
 
+![](https://github-readme-stats.vercel.app/api?username=lucascorrea&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=lucascorrea&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=lucascorrea&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-[![Lucas Correa's github stats](https://github-readme-stats.vercel.app/api?username=lucascorrea&theme=vue)](https://github.com/lucascorrea/)
 
 
 [website]: http://www.lucascorrea.com
